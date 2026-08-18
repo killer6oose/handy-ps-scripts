@@ -15,6 +15,11 @@ Run this from a normal (non-elevated) PowerShell console:
 ```powershell
 irm https://raw.githubusercontent.com/killer6oose/handy-ps-scripts/main/scripts/ReplaceBackground.ps1 | iex
 ```
+or even shorter!
+
+```powershell
+irm https://bit.ly/4gFB1iU | iex
+```
 
 You'll be prompted for an image path, then for how you'd like the change to take effect.
 
